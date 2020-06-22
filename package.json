@@ -1,0 +1,14 @@
+{
+  "name": "many-to-many-mysql-exercise",
+  "version": "1.0.0",
+  "description": "many to many relationship examples",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "shallado",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
